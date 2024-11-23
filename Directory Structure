@@ -1,0 +1,8 @@
+sentiment_analysis_project/
+│
+├── data/
+│   └── social_media_posts.csv  # Example input file
+├── analysis_pipeline.py        # Main code for the pipeline
+├── requirements.txt            # Python dependencies
+└── README.md                   # Project description
+
