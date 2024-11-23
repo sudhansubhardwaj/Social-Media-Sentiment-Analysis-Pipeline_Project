@@ -1,0 +1,20 @@
+# Social Media Sentiment Analysis Pipeline
+
+## Description
+A simple pipeline for analyzing sentiment in social media posts using Python. It includes preprocessing, sentiment analysis with the VADER model, and visualization of results.
+
+## Features
+- Clean and preprocess social media text.
+- Perform sentiment analysis (positive, negative, neutral).
+- Visualize sentiment distribution.
+- Save results to a CSV file.
+
+## Requirements
+- Python 3.x
+- Install dependencies using `pip install -r requirements.txt`.
+
+## Usage
+1. Place your data in `data/social_media_posts.csv`.
+2. Run the script:
+   ```bash
+   python analysis_pipeline.py
