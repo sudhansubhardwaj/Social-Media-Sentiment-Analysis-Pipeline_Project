@@ -1,4 +1,5 @@
 Social Media Sentiment Analysis Pipeline 🚀
+
 This repository contains a comprehensive pipeline for analyzing sentiment on social media platforms. It processes raw social media data, performs sentiment classification, and generates actionable insights for businesses, researchers, or individuals looking to understand public opinion.
 
 Features
